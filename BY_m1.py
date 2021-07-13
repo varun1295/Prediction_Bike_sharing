@@ -5,7 +5,7 @@ This module contains nodes that performs data modelling using 2 different ML / D
 on the preprocessed bike sharing data set from previous file.
 """
 
-from B1 import data_loading
+from BY_viz import data_loading
 import math
 import pandas as pd
 import os
